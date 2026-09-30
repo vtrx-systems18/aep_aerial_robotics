@@ -33,3 +33,11 @@ To reduce this, dead reckoning is often combined with other sources like GPS, ca
 ## Summary
 
 In summary, dead reckoning is a process of estimating your position, or keeping track of where you are, by adding small changes in your position over time. It is the integration of velocity with respect to time.
+
+## Sources
+
+1. Wikipedia. "Dead reckoning." https://en.wikipedia.org/wiki/Dead_reckoning (accessed 30 September 2026)
+2. Merriam-Webster. "Dead reckoning." https://www.merriam-webster.com/dictionary/Dead%20reckon (accessed 30 September 2026)
+3. SBG Systems. "Dead reckoning navigation." https://sbg-systems.com/glossary/dead-reckoning-navigation (accessed 30 September 2026)
+4. Daisch Sensor. "What is Dead Reckoning Navigation?" https://daischsensor.com/what-is-dead-reckoning-navigation/ (accessed 30 September 2026)
+5. Training-Promotion71. "Dead Reckoning and Interpretation." r/freewill, Reddit. https://www.reddit.com/r/freewill/comments/1kpmvj0/dead_reckoning_and_interpretation/ (accessed 30 September 2026)
